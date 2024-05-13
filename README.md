@@ -1,4 +1,3 @@
-**Introduction**:
 ### Hi there 👋 This is RAZY here.
  Nice to meet you!
 I am a CSE student studying at BRAC University .
