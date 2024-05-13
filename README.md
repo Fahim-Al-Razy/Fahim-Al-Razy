@@ -10,8 +10,7 @@ My goal is to become a successfull freelancer through developing several skills 
 Recently I have learned Graphics Designing and improoving this skill gradually.
 
 **Education**:
-I Took my SSC examination from Banani Bidyaniketan School in 2021 and passed with a GPA-5 and after that HSC examination from BAF Shaheen College Dhaka in 2023 with a GPA-4.83 . Now I am admitted BRAC University studying in CSE Department .
-
+I Took my SSC examination from Banani Bidyaniketan School in 2021 and passed with a GPA-5 and after that HSC examination from BAF Shaheen College Dhaka in 2023 with a GPA-4.83 . Now I am admitted to BRAC University in the CSE Department.
 **Contact Information**:
 this is my email - fahimalrazy2005@gmail.com 
 i also have a LinkedIn Id - www.linkedin.com/in/fahim-al-razy-03b8792b3
