@@ -1,6 +1,6 @@
 **Introduction**:
-### Hi there 👋
-This is razy here. Nice to meet you!
+### Hi there 👋 This is razy here.
+ Nice to meet you!
 I am a CSE student studying at BRAC University .
 I believe in punctuality and proper utilization of resources .
 I am interested in innovation and technology
