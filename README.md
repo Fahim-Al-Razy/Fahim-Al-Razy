@@ -13,7 +13,7 @@ Recently I have learned Graphics Designing and improoving this skill gradually.
 I Took my SSC examination from Banani Bidyaniketan School in 2021 and passed with a GPA-5 and after that HSC examination from BAF Shaheen College Dhaka in 2023 with a GPA-4.83 . Now I am admitted BRAC University studying in CSE Department .
 
 **Contact Information**:
-this is myy email - fahimalrazy2005@gmail.com 
+this is my email - fahimalrazy2005@gmail.com 
 i also have a LinkedIn Id - www.linkedin.com/in/fahim-al-razy-03b8792b3
 <!--
 **Fahim-Al-Razy/Fahim-Al-Razy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
