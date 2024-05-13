@@ -1,5 +1,5 @@
 **Introduction**:
-### Hi there 👋 This is razy here.
+### Hi there 👋 This is RAZY here.
  Nice to meet you!
 I am a CSE student studying at BRAC University .
 I believe in punctuality and proper utilization of resources .
