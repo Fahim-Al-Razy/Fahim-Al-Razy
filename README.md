@@ -7,7 +7,6 @@ My goal is to become a successfull freelancer through developing several skills 
 
 **Skills**:
 Recently I have learned Graphics Designing using Adobe Photoshop and Illustrator and improoving this skill gradually.
-![photoshop](https://github.com/Fahim-Al-Razy/Fahim-Al-Razy/assets/169540025/790631f5-907e-45ba-9689-cfffc721573f)   ![illustrator](https://github.com/Fahim-Al-Razy/Fahim-Al-Razy/assets/169540025/b8879539-bada-404a-bdf9-1ff95deff6de)
 
 
 
