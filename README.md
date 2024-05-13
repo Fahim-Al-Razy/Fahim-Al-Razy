@@ -3,7 +3,7 @@
  Nice to meet you!
 I am a CSE student studying at BRAC University .
 I believe in punctuality and proper utilization of resources .
-I am interested in innovation and technology
+I am interested in innovation and technology.
 My goal is to become a successfull freelancer through developing several skills like graphics designing skill, web development skills etc during my university years. After completing my graduation I aim to go abroad for higher studies and settle there .
 
 **Skills**:
