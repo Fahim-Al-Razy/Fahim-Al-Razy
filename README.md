@@ -6,7 +6,10 @@ I am interested in innovation and technology.
 My goal is to become a successfull freelancer through developing several skills like graphics designing skill, web development skills etc during my university years. After completing my graduation I aim to go abroad for higher studies and settle there .
 
 **Skills**:
-Recently I have learned Graphics Designing and improoving this skill gradually.
+Recently I have learned Graphics Designing using Adobe Photoshop and Illustrator and improoving this skill gradually.
+![photoshop](https://github.com/Fahim-Al-Razy/Fahim-Al-Razy/assets/169540025/790631f5-907e-45ba-9689-cfffc721573f)   ![illustrator](https://github.com/Fahim-Al-Razy/Fahim-Al-Razy/assets/169540025/b8879539-bada-404a-bdf9-1ff95deff6de)
+
+
 
 **Education**:
 I Took my SSC examination from Banani Bidyaniketan School in 2021 and passed with a GPA-5 and after that HSC examination from BAF Shaheen College Dhaka in 2023 with a GPA-4.83 . Now I am admitted to BRAC University in the CSE Department.
